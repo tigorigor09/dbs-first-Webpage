@@ -1,0 +1,29 @@
+header {
+    height: 100px;
+    background-color: cornflowerblue;
+    color: black;
+    font-size: 18px;
+}
+
+.kiri {
+    float: left;
+}
+
+.kanan {
+    float: right;
+    padding-right: 20px;
+}
+
+.x {
+    clear: both;
+}
+
+.isi {
+    height: 200px;
+    line-height: 200px;
+}
+
+footer {
+    height: 100px;
+    background-color: bisque;
+}
